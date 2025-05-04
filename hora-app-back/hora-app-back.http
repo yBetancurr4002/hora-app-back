@@ -1,0 +1,6 @@
+@hora_app_back_HostAddress = http://localhost:5128
+
+GET {{hora_app_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
